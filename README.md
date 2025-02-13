@@ -59,4 +59,4 @@ mvn test
 ```
 
 ## License
-This project is open-source and free to use for learning purposes.
+This project is open-source and free to use for learning purposes. This is a basic project, you can modify it according to your needs, have fun!
