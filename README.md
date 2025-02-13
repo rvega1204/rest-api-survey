@@ -33,7 +33,7 @@ This is a free **REST API** project built with **Java 21**, **Spring Boot**, **J
 ## Installation & Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repository/survey-api.git
+   git clone https://github.com/rvega1204/rest-api-survey.git
    ```
 2. Navigate to the project directory:
    ```sh
